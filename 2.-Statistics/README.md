@@ -1,3 +1,5 @@
+Here are my evidence of the Coursera's Statistic Course
+
 # Statistics
 The statistics challenge consists of completing the `Data Science Math Skills` course in Coursera, offered by Duke University. 
 
